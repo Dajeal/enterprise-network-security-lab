@@ -6,7 +6,7 @@ The full Network Design Proposal documents the architecture, addressing, routing
 
 ## Network Design Proposal
 
-📄 **[View the Full Network Design Proposal](Network-Design-Proposal.pdf)**
+📄 **[View the Full Network Design Proposal](https://github.com/Dajeal/enterprise-network-security-lab/blob/main/documentation/Network_Design_Proposal_DWP.pdf)**
 
 The proposal contains the complete technical analysis and design decisions behind the Cisco Packet Tracer implementation.
 
