@@ -176,7 +176,7 @@ For detailed architecture, subnet calculations, device addressing, server placem
 
 The Cisco Packet Tracer project containing the implemented network topology and device configurations is available here:
 
-**[Packet Tracer Lab](packet-tracer/design-project.pkt)**
+**[Packet Tracer Lab](https://github.com/Dajeal/enterprise-network-security-lab/blob/main/packet-tracer/design%20project.pkt)**
 
 ---
 
