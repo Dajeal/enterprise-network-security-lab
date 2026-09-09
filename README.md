@@ -170,7 +170,7 @@ enterprise-network-security-lab/
 
 For detailed architecture, subnet calculations, device addressing, server placement, NAT rules, static routes, firewall rules, and high-availability analysis, see:
 
-**[Network Design Proposal](documentation/Network-Design-Proposal.pdf)**
+**[Network Design Proposal](https://github.com/Dajeal/enterprise-network-security-lab/blob/main/documentation/Network_Design_Proposal_DWP.pdf)**
 
 ### Packet Tracer Implementation
 
