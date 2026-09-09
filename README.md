@@ -1,5 +1,4 @@
 # enterprise-network-security-lab
-# Enterprise Network Security & Infrastructure Lab
 
 ## Project Overview
 
